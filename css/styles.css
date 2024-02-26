@@ -5541,6 +5541,11 @@ textarea.form-control-lg {
   outline: 0;
 }
 
+.subtitle {
+  color: white;
+  opacity: 100;
+  }
+
 .modal-backdrop {
   position: fixed;
   top: 0;
@@ -11413,6 +11418,7 @@ header.masthead {
 }
 header.masthead h1, header.masthead .h1 {
   font-size: 2.25rem;
+  opacity: 70%;
 }
 #shrine{
   background: linear-gradient(to bottom, rgba(7, 7, 7, 0.5) 0%, rgba(7, 7, 7, 0.8) 100%), url("../assets/img/shrine.jpg");
