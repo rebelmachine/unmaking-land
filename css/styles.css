@@ -11325,6 +11325,7 @@ body {
   text-transform: uppercase;
   border: none;
   border-radius: 10rem;
+  margin: 0.5em;
 }
 
 hr.divider {
